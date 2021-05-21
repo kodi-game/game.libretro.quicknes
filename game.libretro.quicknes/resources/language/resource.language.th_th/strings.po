@@ -21,41 +21,41 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Aspect Ratio"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Audio Equalizer Preset"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Audio Mode"
-msgstr ""
-
-msgctxt "#30004"
-msgid "No Sprite Limit"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Color Palette"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Turbo Enable"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Turbo Pulse Width (in frames)"
-msgstr ""
-
-msgctxt "#30008"
 msgid "Allow Opposing Directions"
 msgstr ""
 
-msgctxt "#30009"
+msgctxt "#30002"
+msgid "Aspect Ratio"
+msgstr ""
+
+msgctxt "#30003"
 msgid "Show Horizontal Overscan"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30004"
 msgid "Show Vertical Overscan"
+msgstr ""
+
+msgctxt "#30005"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Audio Mode"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Audio Equalizer Preset"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Color Palette"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Turbo Enable"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Turbo Pulse Width (in frames)"
 msgstr ""
