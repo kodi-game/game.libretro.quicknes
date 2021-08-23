@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - NES / Famicom (QuickNES) 1.0-WIP"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.
+
+Supported files: .nes"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
