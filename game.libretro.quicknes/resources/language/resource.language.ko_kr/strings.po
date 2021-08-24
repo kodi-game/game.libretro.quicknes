@@ -21,9 +21,7 @@ msgid "Nintendo - NES / Famicom (QuickNES) 1.0-WIP"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.
-
-Supported files: .nes"
+msgid "The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.Supported files: .nes"
 msgstr ""
 
 msgctxt "#30000"
