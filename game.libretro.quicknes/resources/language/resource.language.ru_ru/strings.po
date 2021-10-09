@@ -30,19 +30,19 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Allow Opposing Directions"
-msgstr ""
-
-msgctxt "#30002"
 msgid "Aspect Ratio"
 msgstr ""
 
-msgctxt "#30003"
+msgctxt "#30002"
 msgid "Show Horizontal Overscan"
 msgstr ""
 
-msgctxt "#30004"
+msgctxt "#30003"
 msgid "Show Vertical Overscan"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30005"
@@ -58,13 +58,13 @@ msgid "Audio Equalizer Preset"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Color Palette"
-msgstr ""
-
-msgctxt "#30009"
 msgid "Turbo Enable"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Allow Opposing Directions"
 msgstr ""
