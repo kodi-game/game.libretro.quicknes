@@ -1,1 +1,1 @@
-quicknes https://github.com/libretro/QuickNES_Core/archive/71b8000b33daab8ed488f8707ccd8d5b623443f8.tar.gz
+quicknes https://github.com/libretro/QuickNES_Core/archive/a0e33f6a93d5d372274e47efc4cdc81b1fa886ea.tar.gz
