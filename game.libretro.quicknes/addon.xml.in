@@ -25,7 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Nintendo - NES / Famicom (QuickNES) 1.0-WIP</summary>
+		<summary lang="en_GB">Nintendo - NES / Famicom (QuickNES)</summary>
 		<description lang="da_DK">En port af QuickNES-kernebiblioteket, oprindeligt af Shay Green, stærkt modificeret. QuickNES er en nyere emulator, der ser ud til at have god kompatibilitet.</description>
 		<description lang="de_DE">Eine Portierung der QuickNES-Corebibliothek, ursprünglich von Shay Green, stark verändert. QuickNES ist ein neuerer Emulator, der eine gute Kompatibilität zu haben scheint.</description>
 		<description lang="en_GB">A port of the QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.</description>
