@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of the QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility."
 msgstr "QuickNES 核心库的一个迁移，最初由 Shay Green 提供，经过了大量修改。QuickNES 是一种新的模拟器，似乎具有良好的兼容性。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Aspect Ratio"
 msgstr "宽高比"
@@ -68,3 +64,7 @@ msgstr "Turbo 脉冲宽度（帧）"
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
 msgstr "允许反向"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

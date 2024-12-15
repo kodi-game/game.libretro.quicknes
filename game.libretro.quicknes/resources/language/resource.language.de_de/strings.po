@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "A port of the QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility."
 msgstr "Eine Portierung der QuickNES-Corebibliothek, ursprünglich von Shay Green, stark verändert. QuickNES ist ein neuerer Emulator, der eine gute Kompatibilität zu haben scheint."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Aspect Ratio"
 msgstr "Seitenverhältnis"
@@ -68,3 +64,7 @@ msgstr "Turboimpulsbreite (in Frames)"
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
 msgstr "Gegenläufige Richtungen zulassen"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
