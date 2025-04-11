@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.quicknes\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-03-17 10:07i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-quicknes/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "En portning av QuickNES kärnbibliotek, ursprungligen av Shay Green, kra
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Bildförhållande"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
