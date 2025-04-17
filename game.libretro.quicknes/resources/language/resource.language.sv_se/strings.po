@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.quicknes\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-03-17 10:07i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-quicknes/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - NES / Famicom (QuickNES)"
@@ -31,39 +31,42 @@ msgstr "Bildförhållande"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr ""
+msgstr "Visa horisontell överskanning"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr ""
+msgstr "Visa vertikal överskanning"
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Färgpalett"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Ingen sprite-gräns"
 
 msgctxt "#30006"
 msgid "Audio Mode"
-msgstr ""
+msgstr "Ljudläge"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr ""
+msgstr "Förinställd ljudutjämnare"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Turbo Enable"
-msgstr ""
+msgstr "Turbo-aktivering"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
-msgstr ""
+msgstr "Turbo pulsbredd (i bildrutor)"
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Tillåt motsatta riktningar"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
