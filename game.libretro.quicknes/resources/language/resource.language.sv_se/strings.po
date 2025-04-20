@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.quicknes\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-03-17 10:07i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-20 20:03+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-quicknes/sv_se/>\n"
 "Language: sv_se\n"
@@ -49,12 +49,10 @@ msgctxt "#30006"
 msgid "Audio Mode"
 msgstr "Ljudläge"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr "Förinställd ljudutjämnare"
+msgstr "Förinställd ljudequalizer"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Turbo Enable"
 msgstr "Turbo-aktivering"
