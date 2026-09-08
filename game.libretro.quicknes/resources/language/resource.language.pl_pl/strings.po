@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Współczynnik proporcji"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -35,15 +35,15 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr ""
+msgstr "Pokaż pionowy overscan"
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Paleta kolorów"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Bez limitu duszków"
 
 msgctxt "#30006"
 msgid "Audio Mode"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Turbo Enable"
-msgstr ""
+msgstr "Włącz turbo"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Zezwalaj na przeciwne kierunki"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "Domyślny"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -95,7 +95,7 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Nintendo Virtual Console"
-msgstr ""
+msgstr "Konsola wirtualna Nintendo"
 
 msgctxt "#30019"
 msgid "Nintendo RGB PPU"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "FBX's YUV-V3"
-msgstr ""
+msgstr "FBX YUV-V3"
 
 msgctxt "#30021"
 msgid "FBX's Unsaturated-Final"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Sony CXA2025AS US"
-msgstr ""
+msgstr "Sony CXA2025AS USA"
 
 msgctxt "#30023"
 msgid "PAL"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "FBX's NES-Classic (fixed)"
-msgstr ""
+msgstr "FBX NES-Classic (naprawiony)"
 
 msgctxt "#30031"
 msgid "RGBSource's NESCAP"
@@ -187,11 +187,11 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "Non-Linear"
-msgstr ""
+msgstr "Nie liniowy"
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Liniowy"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -227,19 +227,19 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Gracz nr. 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Gracz nr. 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Gracz nr. 1 i 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."

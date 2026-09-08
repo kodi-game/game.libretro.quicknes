@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Bảng màu"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 msgctxt "#30052"
 msgid "Player 1"

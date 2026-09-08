@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>NES</platforms>
+		<platforms>Nintendo - NES / Famicom</platforms>
 		<extensions>nes</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>

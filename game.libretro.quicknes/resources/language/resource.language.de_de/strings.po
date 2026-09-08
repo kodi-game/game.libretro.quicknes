@@ -27,15 +27,15 @@ msgstr "Eine Portierung der QuickNES-Corebibliothek, ursprünglich von Shay Gree
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr "Seitenverhältnis"
+msgstr "Bildseitenverhältnis"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr "Horizontales Overscan anzeigen"
+msgstr "Horizontalen Overscan anzeigen"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr "Vertikales Overscan anzeigen"
+msgstr "Vertikalen Overscan anzeigen"
 
 msgctxt "#30004"
 msgid "Color Palette"
@@ -43,7 +43,7 @@ msgstr "Farbpalette"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr "Keine Sprite-Begrenzung"
+msgstr "Kein Sprite-Limit"
 
 msgctxt "#30006"
 msgid "Audio Mode"
@@ -51,7 +51,7 @@ msgstr "Audiomodus"
 
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr "Audio-Equalizervoreinstellung"
+msgstr "Audioequalizer-Voreinstellung"
 
 msgctxt "#30008"
 msgid "Turbo Enable"
@@ -59,11 +59,11 @@ msgstr "Turbo aktivieren"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
-msgstr "Turboimpulsbreite (in Frames)"
+msgstr "Turbo-Pulsbreite (in Frames)"
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr "Gegenläufige Richtungen zulassen"
+msgstr "Entgegengesetzte Richtungen zulassen"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -71,23 +71,23 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Dies gilt nur, wenn das Seitenverhältnis von RetroArch in den Videoeinstellungen auf „Core-bestimmt“ eingestellt ist."
 
 msgctxt "#30013"
 msgid "Disable this to crop out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Dies deaktivieren, um die (horizontal) potenziell zufällig auftretende, fehlerhafte Videoausgabe auszublenden, die durch den Rand eines Fernsehbildschirms mit Standardauflösung verdeckt wäre."
 
 msgctxt "#30014"
 msgid "Disable this to crop out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Dies deaktivieren, um die (vertikal) potenziell zufällig auftretende, fehlerhafte Videoausgabe auszublenden, die durch den Rand eines Fernsehbildschirms mit Standardauflösung verdeckt wäre."
 
 msgctxt "#30015"
 msgid "Specifies which color palette to use when decoding the NTSC video signal output by the NES."
-msgstr ""
+msgstr "Gibt an, welche Farbpalette bei der Dekodierung des vom NES ausgegebenen NTSC-Videosignals verwendet werden soll."
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -95,7 +95,7 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Nintendo Virtual Console"
-msgstr ""
+msgstr "Nintendo Virtuelle Konsole"
 
 msgctxt "#30019"
 msgid "Nintendo RGB PPU"
@@ -103,11 +103,11 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "FBX's YUV-V3"
-msgstr ""
+msgstr "FBXs YUV-V3"
 
 msgctxt "#30021"
 msgid "FBX's Unsaturated-Final"
-msgstr ""
+msgstr "FBX's Ungesättigt-Final"
 
 msgctxt "#30022"
 msgid "Sony CXA2025AS US"
@@ -119,31 +119,31 @@ msgstr ""
 
 msgctxt "#30024"
 msgid "BMF's Final 2"
-msgstr ""
+msgstr "BMFs Final 2"
 
 msgctxt "#30025"
 msgid "BMF's Final 3"
-msgstr ""
+msgstr "BMFs Final 3"
 
 msgctxt "#30026"
 msgid "FBX's Smooth"
-msgstr ""
+msgstr "FBXs Glatt"
 
 msgctxt "#30027"
 msgid "FBX's Composite Direct"
-msgstr ""
+msgstr "FBXs Composite Direct"
 
 msgctxt "#30028"
 msgid "FBX's PVM Style D93"
-msgstr ""
+msgstr "FBXs PVM-Stil D93"
 
 msgctxt "#30029"
 msgid "FBX's NTSC Hardware"
-msgstr ""
+msgstr "FBXs NTSC-Hardware"
 
 msgctxt "#30030"
 msgid "FBX's NES-Classic (fixed)"
-msgstr ""
+msgstr "FBXs NES-Classic (fest)"
 
 msgctxt "#30031"
 msgid "RGBSource's NESCAP"
@@ -151,11 +151,11 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "nakedarthur's Wavebeam"
-msgstr ""
+msgstr "nakedarthur's Wellenstrahl"
 
 msgctxt "#30033"
 msgid "Removes the 8-sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "Entfernt die Hardwarebeschränkung von 8 Sprites pro Scanline. Dies reduziert Flickring, kann aber zu visuellen Fehlern führen, da einige Spiele das Hardware-Limit nutzen, um spezielle Effekte zu erzeugen."
 
 msgctxt "#30034"
 msgid "The NES has no sample-based audio hardware; sound is synthesized in realtime, so there is no fixed output samplerate. Select the rate the core renders audio at. Higher rates reduce aliasing in expansion-chip audio (VRC6, VRC7, Namco 163) and cut low-pass 'smearing' from frontend resampling, at a small performance cost. 'Auto' picks whichever supported rate is closest to the frontend's target output rate. Output rate does not affect savestates or netplay."
@@ -183,11 +183,11 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Configure audio emulation. 'Non-Linear' simulates the non-linear channel mixing of the NES APU. 'Linear' uses a less accurate approximation, which reduces quality but increases performance on low-end hardware. 'Stereo Panning' adds depth to the NES mono output through the use of panning techniques and reverb effects."
-msgstr ""
+msgstr "Die Audio-Emulation konfigurieren. „Nicht-linear“ simuliert die nicht-lineare Kanalmischung der NES APU. „Linear“ verwendet eine weniger genaue Annäherung, die die Qualität mindert, aber die Leistung auf leistungsschwacher Hardware erhöht. „Stereo-Panorama“ verleiht dem NES-Mono-Ausgang durch die Verwendung von Panning-Techniken und Halleffekten mehr Tiefe."
 
 msgctxt "#30041"
 msgid "Non-Linear"
-msgstr ""
+msgstr "Nicht-linear"
 
 msgctxt "#30042"
 msgid "Linear"
@@ -195,11 +195,11 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Stereo Panning"
-msgstr ""
+msgstr "Stereo-Panorama"
 
 msgctxt "#30044"
 msgid "Adjust the balance between audio frequency components with a custom equalizer preset."
-msgstr ""
+msgstr "Die Balance zwischen Audiofrequenzkomponenten mit einer benutzerdefinierten Equalizer-Voreinstellung anpassen."
 
 msgctxt "#30045"
 msgid "Famicom"
@@ -211,43 +211,43 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "Flach"
 
 msgctxt "#30048"
 msgid "Crisp"
-msgstr ""
+msgstr "Knackig"
 
 msgctxt "#30049"
 msgid "Tinny"
-msgstr ""
+msgstr "Blechern"
 
 msgctxt "#30050"
 msgid "Enables the use of the Turbo A and Turbo B buttons."
-msgstr ""
+msgstr "Aktiviert die Verwendung der Tasten Turbo A und Turbo B."
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Keine"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Spieler 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Spieler 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Spieler 1 und 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."
-msgstr ""
+msgstr "Gibt sowohl die Breite als auch den Abstand (in Frames) der Eingabe-„Impulse“ an, wenn die Tasten Turbo A und Turbo B gedrückt gehalten werden. Die Standardeinstellung „3“ entspricht beispielsweise einer Turbofrequenz von (60/(3+3)) = 10 Hz (10 Betätigungen pro Sekunde)."
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Wenn diese Funktion aktiviert ist, kann gleichzeitig die linke und die rechte (oder die obere und die untere) Richtungstaste bzw. schnell abwechselnd gedrückt oder gehalten werden. Dies kann zu bewegungsbasierten Fehlern führen."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

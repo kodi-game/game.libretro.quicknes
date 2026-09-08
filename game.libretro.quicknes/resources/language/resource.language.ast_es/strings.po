@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Permitir les direiciones opuestes"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -103,7 +103,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "FBX's YUV-V3"
-msgstr ""
+msgstr "YUV-V3 de FBX"
 
 msgctxt "#30021"
 msgid "FBX's Unsaturated-Final"
@@ -231,15 +231,15 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Xugador 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Xugador 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Xugador 1 y 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."

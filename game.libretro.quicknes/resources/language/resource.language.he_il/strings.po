@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "יחס גובה-רוחב"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"

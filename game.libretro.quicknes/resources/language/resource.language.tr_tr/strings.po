@@ -27,43 +27,43 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "En Boy Oranı"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr ""
+msgstr "Yatay Aşırı Taramayı Göster"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr ""
+msgstr "Dikey Aşırı Taramayı Göster"
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Renk Paleti"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Hareket Sınırını Kaldır"
 
 msgctxt "#30006"
 msgid "Audio Mode"
-msgstr ""
+msgstr "Ses Kipi"
 
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr ""
+msgstr "Ses Karıştırıcı Ön Ayarı"
 
 msgctxt "#30008"
 msgid "Turbo Enable"
-msgstr ""
+msgstr "Turbo'yu Etkinleştir"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
-msgstr ""
+msgstr "Turbo Darbe Genişliği (çerçevelerde)"
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Karşı Yönlere İzin Ver"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -71,23 +71,23 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Bu, yalnızca RetroArch en boy oranı Video ayarlarında 'Çekirdeğe özel' olarak ayarlandığında geçerli olacaktır."
 
 msgctxt "#30013"
 msgid "Disable this to crop out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Standart tanımlı bir televizyon ekranının kenarındaki çerçeve tarafından gizlenmiş olabilecek olası rastgele arızalı video çıkışını (yatay olarak) kırpmak için bunu devre dışı bırakın."
 
 msgctxt "#30014"
 msgid "Disable this to crop out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Standart tanımlı bir televizyon ekranının kenarındaki çerçeve tarafından gizlenmiş olabilecek olası rastgele arızalı video çıkışını (dikey olarak) kırpmak için bunu devre dışı bırakın."
 
 msgctxt "#30015"
 msgid "Specifies which color palette to use when decoding the NTSC video signal output by the NES."
-msgstr ""
+msgstr "NES tarafından NTSC video sinyali çıkışının kodunu çözerken hangi renk paletinin kullanılacağını belirtir."
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Removes the 8-sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "Tarama satırı başına 8 hareketli grafik donanım sınırını kaldırır. Bu, titremeyi azaltır ancak bazı oyunlar özel efektler oluşturmak için donanım sınırını kullandığından görsel hatalara neden olabilir."
 
 msgctxt "#30034"
 msgid "The NES has no sample-based audio hardware; sound is synthesized in realtime, so there is no fixed output samplerate. Select the rate the core renders audio at. Higher rates reduce aliasing in expansion-chip audio (VRC6, VRC7, Namco 163) and cut low-pass 'smearing' from frontend resampling, at a small performance cost. 'Auto' picks whichever supported rate is closest to the frontend's target output rate. Output rate does not affect savestates or netplay."
@@ -183,23 +183,23 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Configure audio emulation. 'Non-Linear' simulates the non-linear channel mixing of the NES APU. 'Linear' uses a less accurate approximation, which reduces quality but increases performance on low-end hardware. 'Stereo Panning' adds depth to the NES mono output through the use of panning techniques and reverb effects."
-msgstr ""
+msgstr "Ses taklidini yapılandırın. 'Doğrusal Olmayan', NES APU'nun doğrusal olmayan kanal karıştırmasını taklit eder. 'Doğrusal', kaliteyi düşüren ancak düşük kaliteli donanımlarda performansı artıran daha az doğru bir tahmin kullanır. 'Stereo Kaydırma', kaydırma teknikleri ve yankı efektlerinin kullanımı yoluyla NES mono çıkışına derinlik katar."
 
 msgctxt "#30041"
 msgid "Non-Linear"
-msgstr ""
+msgstr "Doğrusal Olmayan"
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Doğrusal"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
-msgstr ""
+msgstr "Stereo Kaydırma"
 
 msgctxt "#30044"
 msgid "Adjust the balance between audio frequency components with a custom equalizer preset."
-msgstr ""
+msgstr "Özel bir karıştırıcı ön ayarıyla ses frekansı bileşenleri arasındaki dengeyi ayarlayın."
 
 msgctxt "#30045"
 msgid "Famicom"
@@ -211,40 +211,40 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "Düz"
 
 msgctxt "#30048"
 msgid "Crisp"
-msgstr ""
+msgstr "Kıvrımlı"
 
 msgctxt "#30049"
 msgid "Tinny"
-msgstr ""
+msgstr "Teneke"
 
 msgctxt "#30050"
 msgid "Enables the use of the Turbo A and Turbo B buttons."
-msgstr ""
+msgstr "Turbo A ve Turbo B düğmelerinin kullanılmasını sağlar."
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "1. Oyuncu"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "2. Oyuncu"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "İkisi içinde"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."
-msgstr ""
+msgstr "Turbo A ve Turbo B düğmeleri basılı tutulduğunda 'darbeler' girişinin hem genişliğini hem de aralığını (çerçevelerde) belirtir. Örneğin, varsayılan '3' ayarı a (60/(3+3)) = 10 Hz turbo frekansına (saniyede 10 basma) karşılık gelir."
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Bunun etkinleştirilmesi, aynı anda hem sol hem de sağ (veya yukarı ve aşağı) yönlere basılmasına / hızlı bir şekilde değiştirilmesine / basılı tutulmasına olanak tanır. Bu, hareket tabanlı aksaklıklara neden olabilir."

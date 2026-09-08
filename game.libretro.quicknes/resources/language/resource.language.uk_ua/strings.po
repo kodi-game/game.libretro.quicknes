@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Співвідношення сторін"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr ""
+msgstr "Показати горизонтальну розгортку"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Кольорова палітра"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Дозволити протилежні напрямки"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Це буде застосовуватися тільки коли співвідношення сторін встановлено як 'Ядро' в налаштуваннях відео."
 
 msgctxt "#30013"
 msgid "Disable this to crop out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "За замовчуванням"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Лінійна"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -247,4 +247,4 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Увімкнення цього дозволить одночасно натискати / швидко чергувати/утримувати одночасно ліворуч та праворуч (чи донизу) напрямки. Це може спричинити глітчі руху."

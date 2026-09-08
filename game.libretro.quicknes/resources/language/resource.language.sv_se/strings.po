@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Linjär"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -227,19 +227,19 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Spelare 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Spelare 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Spelare 1 & 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."

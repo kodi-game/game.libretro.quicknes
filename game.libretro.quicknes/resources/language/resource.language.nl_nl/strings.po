@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Beeldverhouding"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Lineair"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 msgctxt "#30052"
 msgid "Player 1"

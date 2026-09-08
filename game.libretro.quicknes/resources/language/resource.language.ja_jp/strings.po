@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "アスペクト比"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "カラーパレット"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "デフォルト"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "リニア"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 msgctxt "#30052"
 msgid "Player 1"
@@ -247,4 +247,4 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "有効にすると、左右 (または上下) 方向の同時押し / 高速交互押し / 長押しが可能になります。動作に不具合が生じる場合があります。"

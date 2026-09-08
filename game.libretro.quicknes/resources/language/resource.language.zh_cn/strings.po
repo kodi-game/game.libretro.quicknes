@@ -27,7 +27,7 @@ msgstr "QuickNES 核心库的一个迁移，最初由 Shay Green 提供，经过
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr "宽高比"
+msgstr "纵横比"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -39,7 +39,7 @@ msgstr "显示垂直过扫描"
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr "调色板"
+msgstr "色板"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "默认值"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "线性"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -211,11 +211,11 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "扁平"
 
 msgctxt "#30048"
 msgid "Crisp"
-msgstr ""
+msgstr "快速"
 
 msgctxt "#30049"
 msgid "Tinny"
@@ -227,15 +227,15 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "玩家甲"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "玩家乙"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"

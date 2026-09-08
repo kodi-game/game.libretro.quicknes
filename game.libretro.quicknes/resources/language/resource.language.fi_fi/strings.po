@@ -27,39 +27,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Kuvasuhde"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr "Näytä vaakasuuntainen yliskannaus"
+msgstr "Näytä vaakasuora yliskannaus"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr "Näytä pystysuuntainen yliskannaus"
+msgstr "Näytä pystysuora yliskannaus"
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Väripaletti"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Poista sprite-rajoitus"
 
 msgctxt "#30006"
 msgid "Audio Mode"
-msgstr ""
+msgstr "Äänen tila"
 
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr ""
+msgstr "Äänen taajuuskorjaimen esiasetus"
 
 msgctxt "#30008"
 msgid "Turbo Enable"
-msgstr ""
+msgstr "Ota turbo käyttöön"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
-msgstr ""
+msgstr "Turbo pulssin leveys (kehyksissä)"
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
@@ -71,23 +71,23 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Tämä pätee vain kun RetroArchin kuvasuhde on asetettu \"Ydin\" valintaan video asetuksissa."
 
 msgctxt "#30013"
 msgid "Disable this to crop out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Poista tämä käytöstä rajataksesi (vaakasuora) vääristynyt videon ulostulo, joka olisi jäänyt piiloon kehysten reunan taakse perinteisen tarkkuuden näytöllä."
 
 msgctxt "#30014"
 msgid "Disable this to crop out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Poista tämä käytöstä rajataksesi (pystysuora) vääristynyt videon ulostulo, joka olisi jäänyt piiloon kehysten reunan taakse perinteisen tarkkuuden näytöllä."
 
 msgctxt "#30015"
 msgid "Specifies which color palette to use when decoding the NTSC video signal output by the NES."
-msgstr ""
+msgstr "Määrittää, mitä väripalettia käytetään, kun NTSC-videosignaalin ulostulo puretaan NES:llä."
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -139,11 +139,11 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "FBX's NTSC Hardware"
-msgstr ""
+msgstr "FBX:n NTSC laitteisto"
 
 msgctxt "#30030"
 msgid "FBX's NES-Classic (fixed)"
-msgstr ""
+msgstr "FBX:n NES-Classic (korjattu)"
 
 msgctxt "#30031"
 msgid "RGBSource's NESCAP"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Removes the 8-sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "Poistaa 8 spriten vaakasuuntaisen laitteistorajoituksen. Tämä vähentää välkkymistä, mutta voi aiheuttaa visuaalisia virheitä, koska jotkut pelit hyödyntävät laitteistorajoja tuottamaan erikoistehosteita."
 
 msgctxt "#30034"
 msgid "The NES has no sample-based audio hardware; sound is synthesized in realtime, so there is no fixed output samplerate. Select the rate the core renders audio at. Higher rates reduce aliasing in expansion-chip audio (VRC6, VRC7, Namco 163) and cut low-pass 'smearing' from frontend resampling, at a small performance cost. 'Auto' picks whichever supported rate is closest to the frontend's target output rate. Output rate does not affect savestates or netplay."
@@ -183,23 +183,23 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Configure audio emulation. 'Non-Linear' simulates the non-linear channel mixing of the NES APU. 'Linear' uses a less accurate approximation, which reduces quality but increases performance on low-end hardware. 'Stereo Panning' adds depth to the NES mono output through the use of panning techniques and reverb effects."
-msgstr ""
+msgstr "Määritä äänen emulointi. \"Epälineaarinen\" simuloi NES-APU:n epälineaarista kanavayhdistelmää. \"Lineaarinen\" käyttää vähemmän tarkkaa lähestymistä, mikä vähentää äänenlaatua mutta lisää suorituskykyä heikkotehoisilla laitteilla. \"Stereo panerointi\" lisää syvyyttä NES mono ulostuloon käyttämällä panerointi tekniikoita ja kaiku tehosteita."
 
 msgctxt "#30041"
 msgid "Non-Linear"
-msgstr ""
+msgstr "Epälineaarinen"
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Lineaarinen"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
-msgstr ""
+msgstr "Stereo panerointi"
 
 msgctxt "#30044"
 msgid "Adjust the balance between audio frequency components with a custom equalizer preset."
-msgstr ""
+msgstr "Säädä tasapainoa äänen taajuuskomponenttien välillä mukautetulla taajuuskorjaimen esiasetuksella."
 
 msgctxt "#30045"
 msgid "Famicom"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "Litteä"
 
 msgctxt "#30048"
 msgid "Crisp"
@@ -223,31 +223,31 @@ msgstr ""
 
 msgctxt "#30050"
 msgid "Enables the use of the Turbo A and Turbo B buttons."
-msgstr ""
+msgstr "Mahdollistaa Turbo A- ja Turbo B -painikkeiden käytön."
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Ei mitään"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Pelaaja 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Pelaaja 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Pelaajat 1 ja 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."
-msgstr ""
+msgstr "Määrittää turbon \"syötepulssin\" leveyden ja välityksen (kehyksissä), kun Turbo A- ja Turbo B -painikkeita pidetään alhaalla. Esimerkiksi \"3\" oletusasetus vastaa arvoa (60/(3+3)) = 10 Hz turbotaajuutta (10 painallusta sekunnissa)."
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Tämän käyttöönotto sallii painamaan / nopeasti vaihtelemaan / pitämään sekä vasemmalle että oikealle (tai ylös ja alas) samanaikaisesti. Tämä voi aiheuttaa liikkeisiin perustuvia virheitä."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

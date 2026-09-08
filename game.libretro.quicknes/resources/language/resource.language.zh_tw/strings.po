@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "寬高比"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -39,11 +39,11 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "影像配色"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "沒有素材限制"
 
 msgctxt "#30006"
 msgid "Audio Mode"
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr ""
+msgstr "預設音頻均衡器"
 
 msgctxt "#30008"
 msgid "Turbo Enable"
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "允許反向操作"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "線性"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -203,19 +203,19 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Famicom"
-msgstr ""
+msgstr "紅白機"
 
 msgctxt "#30046"
 msgid "TV"
-msgstr ""
+msgstr "電視"
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "單調"
 
 msgctxt "#30048"
 msgid "Crisp"
-msgstr ""
+msgstr "清脆"
 
 msgctxt "#30049"
 msgid "Tinny"
@@ -227,19 +227,19 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "無"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "玩家 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "玩家 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "玩家 1 與 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."
@@ -247,4 +247,4 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "允許反方向快速操作，可同時按下左右或上下的方向。可能導致遊戲的移動架構出錯。"

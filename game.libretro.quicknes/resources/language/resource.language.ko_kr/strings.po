@@ -27,43 +27,43 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "화면비"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr ""
+msgstr "가로 오버스캔 표시하기"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr ""
+msgstr "세로 오버스캔 표시하기"
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "색상 팔레트"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "스프라이트 제한 해제"
 
 msgctxt "#30006"
 msgid "Audio Mode"
-msgstr ""
+msgstr "오디오 모드"
 
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr ""
+msgstr "오디오 이퀄라이저 프리셋"
 
 msgctxt "#30008"
 msgid "Turbo Enable"
-msgstr ""
+msgstr "터보 사용"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
-msgstr ""
+msgstr "터보 펄스 길이 (프레임)"
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "반대 방향 동시 입력 허용"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -71,23 +71,23 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "RetroArch의 비디오 설정에서 화면비가 '코어에 따름'으로 설정되어 있어야 적용됩니다."
 
 msgctxt "#30013"
 msgid "Disable this to crop out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "이 옵션을 비활성화하면 일반적인 TV 화면에서 테두리 베젤에 의해 가려지는 비디오 출력의 이상한 부분(가로)을 표시합니다."
 
 msgctxt "#30014"
 msgid "Disable this to crop out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "이 옵션을 비활성화하면 일반적인 TV 화면에서 테두리 베젤에 의해 가려지는 비디오 출력의 이상한 부분(세로)을 표시합니다."
 
 msgctxt "#30015"
 msgid "Specifies which color palette to use when decoding the NTSC video signal output by the NES."
-msgstr ""
+msgstr "NES가 출력하는 NTSC 비디오 신호를 디코딩할 때 사용할 색상 팔레트를 선택합니다."
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "FBX's NES-Classic (fixed)"
-msgstr ""
+msgstr "FBX's NES-Classic (개선판)"
 
 msgctxt "#30031"
 msgid "RGBSource's NESCAP"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Removes the 8-sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "원본 하드웨어에 존재하는 스캔라인 당 스프라이트 제한을 제거합니다. 깜빡임을 줄여주지만 이러한 제한을 활용해 특별한 효과를 만들어내는 게임에서는 그래픽 오류가 일어날 수 있습니다."
 
 msgctxt "#30034"
 msgid "The NES has no sample-based audio hardware; sound is synthesized in realtime, so there is no fixed output samplerate. Select the rate the core renders audio at. Higher rates reduce aliasing in expansion-chip audio (VRC6, VRC7, Namco 163) and cut low-pass 'smearing' from frontend resampling, at a small performance cost. 'Auto' picks whichever supported rate is closest to the frontend's target output rate. Output rate does not affect savestates or netplay."
@@ -183,27 +183,27 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Configure audio emulation. 'Non-Linear' simulates the non-linear channel mixing of the NES APU. 'Linear' uses a less accurate approximation, which reduces quality but increases performance on low-end hardware. 'Stereo Panning' adds depth to the NES mono output through the use of panning techniques and reverb effects."
-msgstr ""
+msgstr "오디오 에뮬레이션을 설정합니다. '비선형'은 NES APU의 비선형적 채널 믹싱을 흉내냅니다. '선형'은 부정확한 근사치를 사용하여 품질은 떨어지지만 저사양 하드웨어에서 성능이 향상됩니다. '스테레오 패닝'은 NES의 모노 오디오에 패닝과 리버브 효과를 적용하여 깊이를 추가합니다."
 
 msgctxt "#30041"
 msgid "Non-Linear"
-msgstr ""
+msgstr "비선형"
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "선형"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
-msgstr ""
+msgstr "스테레오 패닝"
 
 msgctxt "#30044"
 msgid "Adjust the balance between audio frequency components with a custom equalizer preset."
-msgstr ""
+msgstr "사용자 정의 이퀄라이저 프리셋을 사용하여 오디오 주파수 요소 간 밸런스를 조정합니다."
 
 msgctxt "#30045"
 msgid "Famicom"
-msgstr ""
+msgstr "패미컴"
 
 msgctxt "#30046"
 msgid "TV"
@@ -211,43 +211,43 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "플랫"
 
 msgctxt "#30048"
 msgid "Crisp"
-msgstr ""
+msgstr "선명하게"
 
 msgctxt "#30049"
 msgid "Tinny"
-msgstr ""
+msgstr "깡통 속"
 
 msgctxt "#30050"
 msgid "Enables the use of the Turbo A and Turbo B buttons."
-msgstr ""
+msgstr "터보 A와 터보 B 버튼을 사용할 수 있게 합니다."
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "플레이어 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "플레이어 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "플레이어 1 & 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."
-msgstr ""
+msgstr "터보 A와 터보 B 버튼을 꾹 누를 때 사용할 입력 '펄스'의 길이와 간격(프레임)을 설정합니다. 예를 들어, 기본 설정인 '3'은 터보 간격을 (60/(3+3)) = 10 Hz(초당 10회 입력)로 설정합니다."
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "이 옵션을 활성화하면 왼쪽과 오른쪽 (또는 위쪽과 아래쪽) 방향 입력을 동시에 누르거나 빠르게 번갈아 누르는 것을 허용합니다. 이는 움직임 관련 버그를 일으킬 수 있습니다."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

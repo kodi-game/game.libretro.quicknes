@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Αναλογία Οθόνης"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -39,7 +39,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Color Palette"
-msgstr ""
+msgstr "Παλέτα Χρωμάτων"
 
 msgctxt "#30005"
 msgid "No Sprite Limit"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Turbo Enable"
-msgstr ""
+msgstr "Ενεργοποίηση Turbo"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "Προκαθορισμένο"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Γραμμικό"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "TV"
-msgstr ""
+msgstr "Τηλεόραση"
 
 msgctxt "#30047"
 msgid "Flat"
@@ -227,19 +227,19 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Τίποτα"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Παίκτης 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Παίκτης 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Παίκτης 1 & 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."

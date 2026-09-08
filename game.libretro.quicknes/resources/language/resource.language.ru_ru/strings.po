@@ -31,11 +31,11 @@ msgstr "Соотношение сторон"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
-msgstr "Показывать горизонтальный вылет за края"
+msgstr "Показывать гориз. вылеты развёртки"
 
 msgctxt "#30003"
 msgid "Show Vertical Overscan"
-msgstr "Показывать вертикальный вылет за края"
+msgstr "Показывать верт. вылеты развёртки"
 
 msgctxt "#30004"
 msgid "Color Palette"
@@ -51,7 +51,7 @@ msgstr "Аудиорежим"
 
 msgctxt "#30007"
 msgid "Audio Equalizer Preset"
-msgstr "Предустановка аудиоэквалайзера"
+msgstr "Пресет эквалайзера"
 
 msgctxt "#30008"
 msgid "Turbo Enable"
@@ -59,11 +59,11 @@ msgstr "Включить турбо"
 
 msgctxt "#30009"
 msgid "Turbo Pulse Width (in frames)"
-msgstr "Длительность импульса турбо (в кадрах)"
+msgstr "Ширина турбо-импульса (в кадрах)"
 
 msgctxt "#30010"
 msgid "Allow Opposing Directions"
-msgstr "Разрешить противоположные направления"
+msgstr "Разрешить нажатия в разные стороны"
 
 msgctxt "#30011"
 msgid "Sound Samplerate (Hint)"
@@ -71,23 +71,23 @@ msgstr "Частота дискретизации звука (подсказка
 
 msgctxt "#30012"
 msgid "This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Применяется, только если в видеонастройках RetroArch выбрано 'Core provided' для соотношения сторон."
 
 msgctxt "#30013"
 msgid "Disable this to crop out (horizontally) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Отключите, чтобы обрезать (по горизонтали) случайные искажения графики, которые обычно скрыты рамкой по краю экрана в телевизорах стандартной чёткости."
 
 msgctxt "#30014"
 msgid "Disable this to crop out (vertically) the potentially random glitchy video output that would have been hidden by the bezel around the edge of a standard-definition television screen."
-msgstr ""
+msgstr "Отключите, чтобы обрезать (по вертикали) случайные искажения графики, которые обычно скрыты рамкой по краю экрана в телевизорах стандартной чёткости."
 
 msgctxt "#30015"
 msgid "Specifies which color palette to use when decoding the NTSC video signal output by the NES."
-msgstr ""
+msgstr "Выбор цветовой палитры, используемой при декодировании NES видеосигнала NTSC."
 
 msgctxt "#30016"
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 msgctxt "#30017"
 msgid "AspiringSquire's Real"
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "FBX's NES-Classic (fixed)"
-msgstr ""
+msgstr "FBX's NES-Classic (исправленная)"
 
 msgctxt "#30031"
 msgid "RGBSource's NESCAP"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Removes the 8-sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "Убирает аппаратное ограничение в 8 спрайтов на линию развёртки. Уменьшает мерцание, но может вызывать графические баги, т.к. в некоторых играх аппаратное ограничение используется для создания спецэффектов."
 
 msgctxt "#30034"
 msgid "The NES has no sample-based audio hardware; sound is synthesized in realtime, so there is no fixed output samplerate. Select the rate the core renders audio at. Higher rates reduce aliasing in expansion-chip audio (VRC6, VRC7, Namco 163) and cut low-pass 'smearing' from frontend resampling, at a small performance cost. 'Auto' picks whichever supported rate is closest to the frontend's target output rate. Output rate does not affect savestates or netplay."
@@ -183,23 +183,23 @@ msgstr ""
 
 msgctxt "#30040"
 msgid "Configure audio emulation. 'Non-Linear' simulates the non-linear channel mixing of the NES APU. 'Linear' uses a less accurate approximation, which reduces quality but increases performance on low-end hardware. 'Stereo Panning' adds depth to the NES mono output through the use of panning techniques and reverb effects."
-msgstr ""
+msgstr "Настройка эмуляции звука. 'Нелинейный' имитирует нелинейное микширование блока обработки аудиосигналов NES. 'Линейное' использует точную аппроксимацию, снижая качество, но улучшая производительность на слабых устройствах. 'Стерео-панорамирование' добавляет глубину к монофоническому звучанию NES с помощью панорамирования и реверберации."
 
 msgctxt "#30041"
 msgid "Non-Linear"
-msgstr ""
+msgstr "Нелинейный"
 
 msgctxt "#30042"
 msgid "Linear"
-msgstr ""
+msgstr "Линейный"
 
 msgctxt "#30043"
 msgid "Stereo Panning"
-msgstr ""
+msgstr "Стерео-панорамирование"
 
 msgctxt "#30044"
 msgid "Adjust the balance between audio frequency components with a custom equalizer preset."
-msgstr ""
+msgstr "Регулировка баланса между частотами диапазона с помощью предустановок эквалайзера."
 
 msgctxt "#30045"
 msgid "Famicom"
@@ -207,47 +207,47 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "TV"
-msgstr ""
+msgstr "ТВ"
 
 msgctxt "#30047"
 msgid "Flat"
-msgstr ""
+msgstr "Плоский"
 
 msgctxt "#30048"
 msgid "Crisp"
-msgstr ""
+msgstr "Чёткий"
 
 msgctxt "#30049"
 msgid "Tinny"
-msgstr ""
+msgstr "Жестяной"
 
 msgctxt "#30050"
 msgid "Enables the use of the Turbo A and Turbo B buttons."
-msgstr ""
+msgstr "Активирует использование кнопок Turbo A и Turbo B."
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 msgctxt "#30052"
 msgid "Player 1"
-msgstr ""
+msgstr "Игрок 1"
 
 msgctxt "#30053"
 msgid "Player 2"
-msgstr ""
+msgstr "Игрок 2"
 
 msgctxt "#30054"
 msgid "Player 1 & 2"
-msgstr ""
+msgstr "Игроки 1 & 2"
 
 msgctxt "#30055"
 msgid "Specifies both the width and spacing (in frames) of input 'pulses' when the Turbo A and Turbo B buttons are held down. For example, the default setting of '3' corresponds to a (60/(3+3)) = 10 Hz turbo frequency (10 presses per second)."
-msgstr ""
+msgstr "Устанавливает ширину и интервал (в кадрах) для выходных импульсов при удерживании кнопок Turbo A и Turbo B. Например, значение по умолчанию '3' соответствует частоте турбо (60/(3+3)) = 10 Гц (10 нажатий в секунду)."
 
 msgctxt "#30056"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Позволяет нажимать / быстро менять / зажимать одновременно направления влево и вправо (или вверх и вниз). Может вызывать глитчи, связанные с перемещением."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

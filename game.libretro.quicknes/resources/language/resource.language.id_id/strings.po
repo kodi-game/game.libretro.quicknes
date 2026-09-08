@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Rasio Aspek"
 
 msgctxt "#30002"
 msgid "Show Horizontal Overscan"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "None"
-msgstr ""
+msgstr "Tak ada"
 
 msgctxt "#30052"
 msgid "Player 1"
