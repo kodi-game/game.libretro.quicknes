@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.quicknes"
 		name="Nintendo - NES / Famicom (QuickNES)"
-		version="1.0.0.54"
+		version="1.0.0.55"
 		provider-name="blargg, kode54">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,6 +15,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
 		<libretro_core>quicknes_libretro</libretro_core>
+		<savestate_features>deterministic</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>LGPLv2.1+</license>
